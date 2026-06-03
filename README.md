@@ -29,3 +29,10 @@ Interactive Power BI dashboard created to analyze sales performance, profitabili
 - Power BI Dashboard (.pbix)
 - Dataset
 - Dashboard Screenshots
+  ## Dashboard Preview
+
+![Dashboard Overview](Dashboard_Overview.png)
+
+## Sales Trend Analysis
+
+![Sales Trend Analysis](Sales_Trend_Analysis.png)
