@@ -1,5 +1,7 @@
 # Sales Performance Dashboard
 
+Power BI project analyzing sales trends, profitability, regional performance, and category-wise business insights.
+
 ## Overview
 Interactive Power BI dashboard created to analyze sales performance, profitability, regional trends, and product categories.
 
